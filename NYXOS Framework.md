@@ -4,13 +4,7 @@
 
 ###### **=====================================**
 
-
-
-###### **GUIDE** : **INCOMPLETE** = STATUS = (**1**)
-
-###### &#x09;**COMPLETE**   = STATUS = (**2**)
-
-
+This is only **reference material** for you to *use, modify, and adapt to your own project*. Feel free to add, remove, or rearrange any section to fit your needs.
 
 ###### **=====================================**
 
