@@ -14,10 +14,6 @@
 
 
 
-###### **FIND AT :** [*CLICK HERE*](https://www.figma.com/design/mwVcsEkGUz115uA64n7byJ/App?node-id=260-303&p=f&t=s656XnBX0bepg84N-0)
-
-
-
 ###### **=====================================**
 
 
