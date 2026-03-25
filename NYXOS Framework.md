@@ -1,5 +1,3 @@
-###### **=====================================**
-
 # **NYX**OS **Framework**
 
 **WORK COMPLETE ESTIMATION : 2030**
